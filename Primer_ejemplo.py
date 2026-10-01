@@ -5,3 +5,8 @@ def suma(a,b):
 
 print (suma(85,65))
 
+def mult(c,d,e):
+    return c*d*e
+
+print(mult(42,10,3))
+
